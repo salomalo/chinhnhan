@@ -1,0 +1,25 @@
+[0.0054] Info: WP_Query results written to log
+[0.0003] Registered sizes: ["thumbnail","medium","medium_large","large","yith-woocompare-image","shop_thumbnail","shop_catalog","shop_single","post-thumbnail","kt-post-thumb","kt-post-thumb-small","kt_post_blog_268x255","lookbook-thumb","lookbook-thumb-masonry","colection-thumb","colection_small_thumb","testimonial-thumb","kt_shop_catalog_131","kt_shop_catalog_142","kt_shop_catalog_164","kt_shop_catalog_175","kt_shop_catalog_193","kt_shop_catalog_200","kt_shop_catalog_204","kt_shop_catalog_214","kt_shop_catalog_248","kt_shop_catalog_260","kt_shop_catalog_270","full"]
+[0.0005] Meta indexed so far: 1 / 345
+[0.0014] Sample meta:
+{"width":585,"height":65,"file":"2015\/08\/banner_linhkien2.png","sizes":{"yith-woocompare-image":{"file":"banner_linhkien2-220x65.png","width":220,"height":65,"mime-type":"image\/png"},"shop_thumbnail":{"file":"banner_linhkien2-180x65.png","width":180,"height":65,"mime-type":"image\/png"},"shop_catalog":{"file":"banner_linhkien2-300x65.png","width":300,"height":65,"mime-type":"image\/png"},"shop_single":{"file":"banner_linhkien2-500x65.png","width":500,"height":65,"mime-type":"image\/png"},"kt-post-thumb":{"file":"banner_linhkien2-345x65.png","width":345,"height":65,"mime-type":"image\/png"},"kt-post-thumb-small":{"file":"banner_linhkien2-70x49.png","width":70,"height":49,"mime-type":"image\/png"},"kt_post_blog_268x255":{"file":"banner_linhkien2-268x65.png","width":268,"height":65,"mime-type":"image\/png"},"lookbook-thumb":{"file":"banner_linhkien2-270x65.png","width":270,"height":65,"mime-type":"image\/png"},"lookbook-thumb-masonry":{"file":"banner_linhkien2-375x42.png","width":375,"height":42,"mime-type":"image\/png"},"colection-thumb":{"file":"banner_linhkien2-380x65.png","width":380,"height":65,"mime-type":"image\/png"},"colection_small_thumb":{"file":"banner_linhkien2-250x65.png","width":250,"height":65,"mime-type":"image\/png"},"testimonial-thumb":{"file":"banner_linhkien2-140x65.png","width":140,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_131":{"file":"banner_linhkien2-131x65.png","width":131,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_142":{"file":"banner_linhkien2-142x65.png","width":142,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_164":{"file":"banner_linhkien2-164x65.png","width":164,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_175":{"file":"banner_linhkien2-175x65.png","width":175,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_193":{"file":"banner_linhkien2-193x65.png","width":193,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_200":{"file":"banner_linhkien2-200x65.png","width":200,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_204":{"file":"banner_linhkien2-204x65.png","width":204,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_214":{"file":"banner_linhkien2-213x65.png","width":213,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_248":{"file":"banner_linhkien2-248x65.png","width":248,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_260":{"file":"banner_linhkien2-260x65.png","width":260,"height":65,"mime-type":"image\/png"},"kt_shop_catalog_270":{"file":"banner_linhkien2-270x65.png","width":270,"height":65,"mime-type":"image\/png"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}}
+[0.0005] Meta indexed so far: 101 / 345
+[0.0003] Meta indexed so far: 201 / 345
+[0.0006] Meta indexed so far: 301 / 345
+[0.3472] Meta indexed so far: 345 / 345
+[0.3788] Info: Valid and Invalid meta results written to log
+[0.0588] Info: Loaded attachments to memory [87.75 mb]
+[1.3156] Info: 7234 Images found [94.25 mb]
+[1.6205] Info: 247 Invalid images found [95 mb]
+[1.6840] Info: Retrieved attachment images from DB [81.75 mb]
+[1.8130] Info: Backup meta results written to log [81.75 mb]
+[0.0014] Removed file from index because of incorrect encoding
+[0.0015] Removed file from index because of incorrect encoding
+[0.0016] Removed file from index because of incorrect encoding
+[0.0016] Removed file from index because of incorrect encoding
+[0.0017] Removed file from index because of incorrect encoding
+[0.0016] Posts checked for used images 1/61
+[0.1288] Info: Invalid post image meta results written to log
+Warning: skipping script index because of too many image files
+[5.8231] Info: Invalid referenced image meta results written to log
+[5.8310] Info: Unreferenced image file results written to log
